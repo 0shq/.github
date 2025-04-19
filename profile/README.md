@@ -1,15 +1,12 @@
 <p align="center">
-    <img src="/profile/images/banner.png" alt="OSHQ Banner">
-    <br /><br />
-    <b>OSHQ is an open source head quarter for developing applications that contribute for the public aiming towards impacting people's lives.</b>
+  <img src="/profile/images/banner.png" alt="OSHQ Banner">
+  <br><br>
+  <b>OSHQ is an open-source headquarters focused on building public-good applications that aim to make a meaningful impact on people’s lives.</b>
 </p>
 
-<h2>Connect With Us 🫂</h2>
-<ul>
-    <li>
-        Follow & Star our repos 🌟 
-        <iframe src="https://ghbtns.com/github-btn.html?user=0shq&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub Follow Button"></iframe>
-        🖥️
-    </li>
-    <li>Follow us on <a href="https://x.com/s0shq" target="_blank">X</a> 🐤</li>
-</ul>
+## Connect With Us 🫂
+
+- 🌟 Follow & Star our repos on [GitHub](https://github.com/0shq)  
+  ![GitHub followers](https://img.shields.io/github/followers/0shq?label=Follow&style=social) 
+
+- 🐤 Follow us on [X (Twitter)](https://x.com/s0shq)
